@@ -1,0 +1,6 @@
+Run from the terminal a see if you get this error.
+
+(python:7473): Gtk-CRITICAL **: IA__gtk_widget_get_direction: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(python:7473): Gtk-CRITICAL **: IA__gtk_widget_get_direction: assertion 'GTK_IS_WIDGET (widget)' failed
+
